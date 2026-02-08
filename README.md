@@ -8,6 +8,7 @@
 > 保留代码结构，低误报风险，专业的组件级混淆方案
 
 ---
+
 ## ✨ 成品下载链接
 https://pan.quark.cn/s/28e2b1b3b243
 
@@ -23,6 +24,9 @@ https://www.sdczz.com/downloads/shengdaphpsq
 - 🔧 **四级混淆**：从基础清理到流程控制打乱
 - 🚀 **框架友好**：完美兼容 WordPress、Laravel、ThinkPHP 等主流框架
 - 💼 **商业适用**：适合插件开发者、外包团队保护知识产权
+- 🛡️这两个项目可以考虑搭配使用
+- 🛡️https://github.com/xielaoban-pro/Component-Batch-Encryptor
+- 🛡️https://github.com/xielaoban-pro/PHP-Batch-Obfuscator
 
 ---
 
