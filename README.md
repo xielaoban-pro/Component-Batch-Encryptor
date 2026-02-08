@@ -359,6 +359,8 @@ A: 无法100%防护，但能大幅提高破解成本。建议结合授权系统�
 
 - 🌐 官网：[sdczz.com](https://sdczz.com)
 - 💬 问题反馈：提交 GitHub Issue
+-  声达多应用授权php程序
+   https://www.sdczz.com/downloads/shengdaphpsq
 
 ---
 
